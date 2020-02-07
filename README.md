@@ -1,3 +1,3 @@
-# 数据竞赛经验分享
-天津大学 管理科学与工程博士 亢延哲  
-![img](\figures\数据科学竞赛经验分享.png)
+# 数据科学竞赛经验分享
+全是超强干货，错过一定会后悔
+![img](https://github.com/yzkang/My-Data-Competition-Experience/blob/master/figures/数据科学竞赛经验分享.png)
