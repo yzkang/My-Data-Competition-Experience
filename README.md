@@ -15,4 +15,4 @@
 有需要请自行下载学习，欢迎交流。  
 
 Wechat: bestdavidkyz  
-E-mail: kyz1994@tju.edu.cn  
+E-mail: davidkangyz@tju.edu.cn  
