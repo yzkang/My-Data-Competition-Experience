@@ -12,7 +12,7 @@
 
 注：PPT文件太大，直接上传了pdf，分为part1和part2。PPT完成于2018年底，后续获奖比赛未更新。  
 
-有需要请自行下载学习，欢迎交流。  
+有需要请自行下载学习，欢迎交流（总感觉好多内容需要详细解释:'|）。  
 
 Wechat: bestdavidkyz  
 E-mail: davidkangyz@tju.edu.cn  
