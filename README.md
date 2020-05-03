@@ -14,5 +14,7 @@
 
 有需要请自行下载学习，期待与各位老师同学进行线上线下的深入交流（总感觉好多内容需要详细解释:'|）。  
 
+引用请注明。  
+
 Wechat: bestdavidkyz  
 E-mail: davidkangyz@tju.edu.cn  
