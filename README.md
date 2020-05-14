@@ -16,5 +16,5 @@
 
 引用请注明。  
 
-Wechat: bestdavidkyz  
+知乎：https://www.zhihu.com/people/yzkang
 E-mail: davidkangyz@tju.edu.cn  
