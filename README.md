@@ -17,4 +17,4 @@
 引用请注明。  
 
 我的知乎：https://www.zhihu.com/people/yzkang  
-E-mail: davidkangyz@tju.edu.cn  
+E-mail: davidkangyz@163.com  
