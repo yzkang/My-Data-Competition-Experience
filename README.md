@@ -12,9 +12,10 @@
 
 注：PPT文件太大，直接上传了pdf，分为part1和part2。PPT完成于2018年底，后续获奖比赛未更新。  
 
-有需要请自行下载学习，有任何问题直接发邮件即可。期待与各位老师同学进行线上线下的深入交流。  
+有需要请自行下载学习，期待与各位老师同学进行线上线下的深入交流。  
 
 引用请注明。  
 
-我的知乎：https://www.zhihu.com/people/yzkang  
 E-mail: davidkangyz@163.com  
+知乎：https://www.zhihu.com/people/yzkang
+知识星球：https://t.zsxq.com/IMfe2vB
