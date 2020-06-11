@@ -25,7 +25,7 @@ P.S. 近期有同学反映PDF打不开，我在百度网盘上传了一份完整
 E-mail: davidkangyz@163.com  
 知乎：https://www.zhihu.com/people/yzkang  
 
-更多竞赛干货会在我的知识星球不断更新：https://t.zsxq.com/IMfe2vB
+更多竞赛秘笈请移步我的知识星球，欢迎在大卫的小屋向我提问：https://t.zsxq.com/IMfe2vB
   
 ## 附录
 
