@@ -21,12 +21,12 @@
 其他联系方式：  
 E-mail: davidkangyz@163.com  
 知乎：https://www.zhihu.com/people/yzkang  
-知识星球：https://t.zsxq.com/IMfe2vB  
 
-P.S. 近期有大佬反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：
-链接:https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码：l1pu 
+P.S. 近期有同学反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：  
+链接:https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码：l1pu  
 
-
+需要更多干货的请加我的知识星球：https://t.zsxq.com/IMfe2vB  
+  
 附：
 
 本人竞赛成绩总结
