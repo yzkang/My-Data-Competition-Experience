@@ -24,8 +24,6 @@ P.S. 近期有同学反映PDF打不开，我在百度网盘上传了一份完整
 微信：bestdavidkyz（加交流群请添加此微信）  
 E-mail: davidkangyz@163.com  
 知乎：https://www.zhihu.com/people/yzkang  
-
-需要更多干货的请加我的知识星球：https://t.zsxq.com/IMfe2vB  
   
 ## 附录
 
