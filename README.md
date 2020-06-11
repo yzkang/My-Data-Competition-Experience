@@ -14,20 +14,19 @@
 
 有需要请自行下载学习，期待与各位老师同学进行线上线下的深入交流。  
 
+P.S. 近期有同学反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：  
+链接：https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码：l1pu  
 引用请注明。  
 
-想加竞赛交流群的请添加我的微信：bestdavidkyz  
+## 联系方式
 
-其他联系方式：  
+微信：bestdavidkyz（加交流群请添加此微信）  
 E-mail: davidkangyz@163.com  
 知乎：https://www.zhihu.com/people/yzkang  
 
-P.S. 近期有同学反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：  
-链接:https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码：l1pu  
-
 需要更多干货的请加我的知识星球：https://t.zsxq.com/IMfe2vB  
   
-附：  
+## 附录
 
 本人竞赛成绩总结
 
