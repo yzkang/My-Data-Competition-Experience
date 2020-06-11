@@ -1,4 +1,4 @@
-# 数据科学竞赛经验分享
+# 数据科学竞赛经验谈
 如何做数据分析？  
 如何做数据清洗？  
 如何做特征工程？(面向关系型数据的特征工程系统化分析方法)  
@@ -8,7 +8,7 @@
 如何做模型融合？  
 如何上分刷榜？  
 
-着重介绍数据分析、数据竞赛的方法论和许多反直觉的trick，教你在一周内成为机器学习与数据科学的高级玩家。
+着重介绍数据分析、数据竞赛的方法论和各种反直觉的trick，教你在一周内成为机器学习与数据科学的高级玩家。
 
 注：PPT文件太大，直接上传了pdf，分为part1和part2。
 
@@ -16,14 +16,16 @@
 
 引用请注明。  
 
-想加竞赛交流群的请添加我的WeChat：bestdavidkyz  
+想加竞赛交流群的请添加我的微信：bestdavidkyz  
 
 其他联系方式：  
 E-mail: davidkangyz@163.com  
 知乎：https://www.zhihu.com/people/yzkang  
-知识星球：https://t.zsxq.com/IMfe2vB
+知识星球：https://t.zsxq.com/IMfe2vB  
 
-近期有大佬反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：链接:https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码:l1pu
+P.S. 近期有大佬反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：
+链接:https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码：l1pu 
+
 
 附：
 
