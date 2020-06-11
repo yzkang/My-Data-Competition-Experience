@@ -28,18 +28,18 @@
 | 2018 | 蚂蚁金服金融科技平台 | 蚂蚁金服 | 蚂蚁开发者大赛 — 支付风险识别赛题 | 第9名 | 9/2986
 | 2018 | 天池大数据众智平台 | 阿里巴巴 | IJCAI2018 — 阿里妈妈国际广告算法大赛 | 前2% 
 | 2018 | DataFountain | 中国平安 | 产险数据建模大赛——驾驶行为预测驾驶风险 | 前2% 
-| 2018 | kaggle | Two Sigma	Two Sigma Investment Financial Modeling Challenge | 前3% 
+| 2018 | kaggle | Two Sigma | Two Sigma Investment Financial Modeling Challenge | 前3% 
 | 2019 | 天池大数据众智平台 | 天津市津南区政府 | 津南数字制造算法挑战赛 | 第2名 | 2/2682
 | 2019 | 中国农业银行 | 中国农业银行软件开发中心 | 第二届“雅典娜杯”分析挖掘大赛 | 第4名 | 4/361
 					
-| 年份 | 竞赛平台 | 举办单位 | 竞赛名称 | 竞赛成绩 | 排名
-| ---- | ---- | ---- | ---- |  ----  | ---- |					
-| 2016 | 滴滴AI竞赛平台 | 滴滴出行 | 首届全球DI-Tech算法大赛 |  | 
-| 2016 | 融360自建平台 | 融360 | “天机”金融风控大数据竞赛 |  | 
-| 2017 | DataCastle | 融360 | 智慧中国杯——用户贷款风险预测 | 前10%	 | 
-| 2017 | Kaggle | Sberbank | Sberbank Russian Housing Market |  | 
-| 2017 | 天池大数据众智平台 | 高德 | KDD CUP Highway Tollgates Traffic Flow Prediction |  | 
-| 2018 | 京东智汇平台 | 京东 | JData全球运筹优化大赛 |  | 
+| 年份 | 竞赛平台 | 举办单位 | 竞赛名称 | 竞赛成绩 | 
+| ---- | ---- | ---- | ---- |  ----  |				
+| 2016 | 滴滴AI竞赛平台 | 滴滴出行 | 首届全球DI-Tech算法大赛 |
+| 2016 | 融360自建平台 | 融360 | “天机”金融风控大数据竞赛 |
+| 2017 | DataCastle | 融360 | 智慧中国杯——用户贷款风险预测 | 前10% | 
+| 2017 | Kaggle | Sberbank | Sberbank Russian Housing Market | 
+| 2017 | 天池大数据众智平台 | 高德 | KDD CUP Highway Tollgates Traffic Flow Prediction | 
+| 2018 | 京东智汇平台 | 京东 | JData全球运筹优化大赛 | 
 
 
 E-mail: davidkangyz@163.com  
