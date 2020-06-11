@@ -16,6 +16,15 @@
 
 引用请注明。  
 
+想加竞赛交流群的请添加我的WeChat：bestdavidkyz  
+
+其他联系方式：  
+E-mail: davidkangyz@163.com  
+知乎：https://www.zhihu.com/people/yzkang  
+知识星球：https://t.zsxq.com/IMfe2vB
+
+近期有大佬反映PDF打不开，我在百度网盘上传了一份完整版PDF，详见：链接:https://pan.baidu.com/s/1deQv71L23L95L8fppCkReQ  密码:l1pu
+
 附：
 
 本人竞赛成绩总结
@@ -44,9 +53,3 @@
 | 2017 | Kaggle | Sberbank | Sberbank Russian Housing Market | 
 | 2017 | 天池大数据众智平台 | 高德 | KDD CUP Highway Tollgates Traffic Flow Prediction | 
 | 2018 | 京东智汇平台 | 京东 | JData全球运筹优化大赛 | 
-
-联系方式：
-
-E-mail: davidkangyz@163.com  
-知乎：https://www.zhihu.com/people/yzkang  
-知识星球：https://t.zsxq.com/IMfe2vB
