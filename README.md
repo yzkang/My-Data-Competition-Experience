@@ -23,8 +23,7 @@ P.S.2 目前该PDF的文字版已经制作完成，即将和PPT版一起上传�
 
 ## 联系方式
 
-微信：exphil（需要加竞赛交流群or竞赛培训的同学请添加此微信，加竞赛交流群的同学请注明“数据科学竞赛”）  
-E-mail: davidkangyz@163.com  
+E-mail: davidkangyz@163.com 需要加竞赛交流群or竞赛培训的同学请告知    
 知识星球：https://t.zsxq.com/IMfe2vB
   
 ## 附录
