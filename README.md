@@ -23,8 +23,9 @@ P.S.2 目前该PDF的文字版已经制作完成，即将和PPT版一起上传�
 
 ## 联系方式
 
-E-mail: davidkangyz@163.com 需要加竞赛交流群or竞赛培训的同学请告知    
-知识星球：https://t.zsxq.com/IMfe2vB
+知乎：https://www.zhihu.com/people/yzkang 需要竞赛培训的同学请在知乎留言    
+知识星球：https://t.zsxq.com/IMfe2vB  
+E-mail: davidkangyz@163.com
   
 ## 附录
 
