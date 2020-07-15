@@ -22,8 +22,7 @@ P.S.1 有同学反映PDF部分内容缺少关键细节，我承认我没有把�
 P.S.2 目前该PDF的文字版已经制作完成，即将和PPT版一起上传至我的知识星球。想快速刷分、拿奖金的同学，欢迎到大卫的小屋与我交流：https://t.zsxq.com/IMfe2vB 
 
 ## 联系方式
-
-知乎：https://www.zhihu.com/people/yzkang 需要竞赛培训的同学请在知乎留言    
+    
 知识星球：https://t.zsxq.com/IMfe2vB  
 E-mail: davidkangyz@163.com
   
