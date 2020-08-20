@@ -23,6 +23,7 @@ P.S.2 目前该PDF的文字版已经制作完成，即将和PPT版一起上传�
 
 ## 联系方式
     
+微信：exphil
 知识星球：https://t.zsxq.com/IMfe2vB  
 E-mail: davidkangyz@163.com
   
