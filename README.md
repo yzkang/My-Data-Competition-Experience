@@ -8,7 +8,7 @@
 如何做模型融合？  
 如何上分刷榜？  
 
-请各位直接到以下链接阅读：https://zhuanlan.zhihu.com/p/149769029
+百度网盘链接: https://pan.baidu.com/s/1kbMHfYXIpWCCsk9esv4x1Q  密码: h5fk
 
 纯文字PDF版已经制作完成，已与PPT版一起上传至我的知识星球。想咨询竞赛经验、快速上分、争夺奖金的同学，欢迎到大卫的小屋与我交流：https://t.zsxq.com/IMfe2vB 
 
